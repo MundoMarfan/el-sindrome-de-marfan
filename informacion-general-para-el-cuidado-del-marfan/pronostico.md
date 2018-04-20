@@ -1,0 +1,4 @@
+# Pronóstico
+
+Las perspectivas hoy son mucho mejores de lo que eran habitualmente, incluso hasta hace cinco años. En la época anterior a la cirugía de corazón abierto, el promedio de vida se reducía a un tercio de los intervenidos. Los problemas médicos, especialmente los que involucran a la aorta, reducían el la esperanza de vida de un hombre a 40 años de media y a 50 años para las mujeres. Había una gran variedad acerca de estos promedios, morían muchos niños por problemas cardíacos. Ahora los diagnósticos tempranos y un cuidadoso control han mejorado enormemente el pronóstico y el promedio de vida ha aumentado. Los tratamientos médicos y quirúrgicos siguen mejorando y ofrecen esperanza, aún en los casos más severos de niños y adultos afectados. Además, un buen tratamiento puede aliviar o prevenir muchas de las complicaciones que interfieren con las actividades de la vida diaria.
+

@@ -1,0 +1,4 @@
+# Introducción
+
+Este libro está dedicado a todas aquellas personas interesadas en saber más acerca del síndrome de Marfan. Esta edición fue elaborada por personas afecta­das por este trastorno médico, a fin de re­flejar sus preocupaciones y dudas más im­portantes. El vocabulario se eligió evitando la terminología médica, aunque algunas pa­labras y frases de las descripciones médi­cas, de sus informes o de sus publicacio­nes, fueron escritas manteniendo su termi­nología. La experiencia de una gran canti­dad de pacientes con síndrome de Marfan, familiares y profesionales médicos se ha plasmado en este libro. Se ha hecho el es­fuerzo de minimizar los prejuicios y especu­laciones alrededor de este trastorno. Sin embargo, pueden surgir diferentes opinio­nes en algunos de los temas considerados en estas páginas, por lo que los editores agradecerán cualquier aportación de aque­llos que deseen contribuir a la mejora de la próxima edición.
+

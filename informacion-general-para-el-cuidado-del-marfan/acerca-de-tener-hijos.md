@@ -1,0 +1,16 @@
+# Acerca de tener hijos
+
+Tener hijos es una decisión absolutamente personal, una decisión que debiera ser tomada exclusivamente por los padres, pero sólo después de conocer y entender los riesgos potenciales que corren tanto el hijo como la madre. Cada descendiente de un padre afectado tiene el 50% de probabilidad \(1 de cada 2\) de desarrollar el Síndrome de Marfan. Dada la variedad de manifestaciones del gen de Marfan, es imposible predecir en que grado será afectado el niño que herede ese gen.
+
+Muchas enfermedades hereditarias pueden diagnosticarse durante el embarazo, por medio de diferentes técnicas como el ultrasonido o la amniocentesis. Hoy en día, ya es posible determinar si el feto ha heredado la copia alterada del gen FBN1 durante el embarazo, pero sólo en ciertos casos. Si uno de los padres afectados sabe la naturaleza exacta de sus mutación en el FBN1, entonces por lo regular, esta especifica mutación se puede detectar en el feto, si está presente. Si no es detectada la copia alterada, entonces el feto no heredará el síndrome de Marfan.
+
+Si el padre o la madre no sabe exactamente dónde está la mutación, pero alguno de los dos tiene síndrome de Marfan y varios parientes están afectados, se puede hacer el análisis de eslabonamiento usando el ADN obtenido del feto. Se puede referir a la figura 13, para entender lo comunes que son las variaciones en la secuencia alrededor del gen FBN1 responsable del Síndrome de Marfan en una familia. Este acercamiento es tan acertado como el análisis de las mutaciones si se puede reunir la suficiente información acerca de la familia, y no requiere saber en dónde esta específicamente la mutación.
+
+Dado que esta es un área que avanza rápidamente, los futuros padres deben estar en contacto con su médico o genetista para discutir los últimos avances en el diagnóstico prenatal. El embarazo añade un riesgo adicional a la mujer con síndrome de Marfan por el aumento de la tensión en el sistema cardiovascular.
+
+Como no hay una clara distinción entre las mujeres que pueden y las que no pueden soportar un embarazo, varios puntos se han tenido en cuenta para determinar si es recomendable o no quedarse embarazada. Las mujeres que tienen problemas importantes en las válvulas del corazón no deberían quedarse embarazadas. Si el diámetro de la aorta supera lo normal 10% \(40 milímetros\), el riesgo de que ocurra un desgarre es mayor. Se recomienda completar su gestación mientras son jóvenes. Deberían someterse a una evaluación cardiaca antes de quedarse embarazadas. Las mujeres que han pasado por un transplante de la aorta necesitan atención especial, por los efectos dañinos que se pudieran presentar en el feto a causa de la medicación con anticoagulantes.
+
+Cualquier embarazo en una mujer con síndrome de Marfan debe considerarse de alto riesgo \(término usado por los obstetras\), y su aorta debe ser evaluada mediante una ecocardiografía por lo menos cada 6 semanas.
+
+El parto debe ser lo menos difícil posible; por lo regular esto significa un parto normal por vía vaginal. Las cesáreas no son indispensables en el síndrome de Marfan, pero pueden ser necesarias por cualquiera de las complicaciones que generalmente surgen durante el parto.
+
