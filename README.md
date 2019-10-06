@@ -1,6 +1,6 @@
 # El síndrome de Marfan
 
-![](/assets/titulo.png)
+![](.gitbook/assets/titulo.png)
 
 **Edición en español \(borrador\)**
 
