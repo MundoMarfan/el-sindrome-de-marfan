@@ -27,9 +27,7 @@ Publicado en GitBook en Julio 2017 por [**Mundo Marfan Latino**](http://mundomar
 
 ![](.gitbook/assets/qr.png)  
 
-[Este documento se encuentra en: https://mundomarfan.gitbook.io/el-sindrome-de-marfan/](https://mundomarfan.gitbook.io/el-sindrome-de-marfan/)  
+Este documento se encuentra en: [https://mundomarfan.gitbook.io/el-sindrome-de-marfan/](https://mundomarfan.gitbook.io/el-sindrome-de-marfan/) y en [Github](https://github.com/MundoMarfan/el-sindrome-de-marfan).
 
-[Github](https://github.com/MundoMarfan/el-sindrome-de-marfan)
-
-Utilize el menu lateral para la consulta de los temas o emple el botón next a continuación para ir a la siguiente página.
+Utilize el menú lateral para la consulta de los temas o emplee el botón "next", a continuación, para ir a la siguiente página.
 
