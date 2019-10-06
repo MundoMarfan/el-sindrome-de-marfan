@@ -23,5 +23,5 @@ Publicado en GitBook en Julio 2017 por [**Mundo Marfan Latino**](http://mundomar
 
 [https://mundomarfan.gitbook.io/el-sindrome-de-marfan/](https://mundomarfan.gitbook.io/el-sindrome-de-marfan/)  
 
-[Descargar en Github]([https://mundomarfan.gitbook.io/el-sindrome-de-marfan/](https://mundomarfan.gitbook.io/el-sindrome-de-marfan/)
+[Descargar en Github](https://mundomarfan.gitbook.io/el-sindrome-de-marfan/)
 
