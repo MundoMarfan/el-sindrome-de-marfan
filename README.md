@@ -24,6 +24,10 @@ Nota: Las imágenes incluidas no pertenecen al original.
 
 Publicado en GitBook en Julio 2017 por [**Mundo Marfan Latino**](http://mundomarfan.org) bajo licencia [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/es/)
 
+**Descargar en PDF**
+
+Puede consultar este documento en línea o [descargar este documento en PDF](.gitbook/assets/El_síndrome_de_Marfan_1994.pdf).
+
 **Referencias a este documento**
 
 ![](.gitbook/assets/qr.png)  
