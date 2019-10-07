@@ -14,7 +14,7 @@ Enfermera Cheryll Gasner**
 
 Primera versión en\_US - EE.UU. Mayo de 1994
 
-Traducción del inglés por **Adriana Ahedo **para [**Marfan México**](http://www.marfan.org.mx/)  
+Traducción del inglés por **Adriana Ahedo** para [**Marfan México**](http://www.marfan.org.mx/)  
 Edición es\_MX – México: Enero de 2002  
 Revisión de los doctores **Arturo Espinosa** y **Carlos Pineda**
 
@@ -26,7 +26,7 @@ Publicado en GitBook en Julio 2017 por [**Mundo Marfan Latino**](http://mundomar
 
 **Descargar en PDF**
 
-Puede consultar este documento en línea o [descargar este documento en PDF](.gitbook/assets/El_síndrome_de_Marfan_1994.pdf).
+Puede consultar este documento en línea o [**descargar este documento en PDF**](https://mundomarfan.files.wordpress.com/2019/10/el_sindrome_de_marfan_1994.pdf)
 
 **Referencias a este documento**
 
