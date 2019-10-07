@@ -19,7 +19,7 @@ Edición es\_MX – México: Enero de 2002
 Revisión de los doctores **Arturo Espinosa** y **Carlos Pineda**
 
 Adaptación de esta versión por **Javier Guerra** para [**SIMA**](http://www.marfan.es/)  
-Edición es\_ES – España: Junio de 2008
+Edición es\_ES – España: Junio de 2008  
 Nota: Las imágenes incluidas no pertenecen al original.
 
 Publicado en GitBook en Julio 2017 por [**Mundo Marfan Latino**](http://mundomarfan.org) bajo licencia [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/es/)
